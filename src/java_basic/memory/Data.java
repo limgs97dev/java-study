@@ -1,4 +1,4 @@
-package memory;
+package java_basic.memory;
 
 public class Data {
     private int value;

@@ -1,6 +1,6 @@
-package static2.ex;
+package java_basic.static2.ex;
 
-import static static2.ex.MathArrayUtils.*;
+import static java_basic.static2.ex.MathArrayUtils.*;
 
 public class MathArrayUtilsMain {
     public static void main(String[] args) {

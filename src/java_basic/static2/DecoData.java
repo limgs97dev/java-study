@@ -1,4 +1,4 @@
-package static2;
+package java_basic.static2;
 
 public class DecoData {
     private int instanceValue;

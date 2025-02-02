@@ -1,4 +1,4 @@
-package static2.ex;
+package java_basic.static2.ex;
 
 public class Car {
     private String carName;

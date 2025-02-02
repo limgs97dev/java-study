@@ -1,4 +1,4 @@
-package static1;
+package java_basic.static1;
 
 public class Data1 {
     public String name;
